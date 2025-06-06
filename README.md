@@ -44,7 +44,7 @@ It’s also about realizing where things might need attention — and where, act
 
 | File | Description |
 |------|-------------|
-| `crying_data_2023.csv` | Raw self-tracked data including date, reason, location, and context |
+| `crying_data_2023.xlsx` | Raw self-tracked data including date, reason, location, and context |
 
 ---
 ## 🎞️ Presentation
