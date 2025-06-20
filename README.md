@@ -1,4 +1,4 @@
-# 😢 Crying 2023 – A Personal Data Story
+# 😢 A Personal Data Story - 2023
 
 This is a very personal project — a full-year log of my own crying episodes during 2023.
 
